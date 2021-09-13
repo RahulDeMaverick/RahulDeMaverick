@@ -1,7 +1,7 @@
 # Assignment 1
-Name : Rahul Udhayakumar
-NU ID: 002989204
-Email Address : udhayakumar.r@northeastern.edu
+1. Name : Rahul Udhayakumar
+2. NU ID: 002989204
+3. Email Address : udhayakumar.r@northeastern.edu
 
 ### Asssignment instructions:
 
